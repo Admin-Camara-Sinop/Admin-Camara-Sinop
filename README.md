@@ -22,7 +22,6 @@ Nossas soluções são construídas com foco em performance, segurança e escala
 
 ## 🔗 Links Oficiais
 * 🌐 [Site da Câmara Municipal de Sinop](https://www.sinop.mt.leg.br/)
-* 📊 [Portal da Transparência](#) *(Insira o link aqui)*
 
 ---
 *Câmara Municipal de Sinop - Trabalhando por uma cidade mais inovadora.*
